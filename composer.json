@@ -12,6 +12,7 @@
         "php",
         "sdk"
     ],
+    
     "homepage": "https://github.com/groupdocs-signature-cloud/groupdocs-signature-cloud-php",
     "authors": [
         {
